@@ -46,6 +46,6 @@ A partir da premissa que um jogo digital (ou videojogo ou jogo electrónico), re
 * Programação em Python Aplicado à Jogos Digitais
 * Banco de Dados Aplicados à Jogos Digitais
 * Conceitos de Computação de Alto Desempenho Aplicada à Jogos Digitais
-* Ferramentas: Git e Docker
+* Ferramentas de Versificação e Conteinerização: Git e Docker
 * Tópicos Avançados em UNITY
 
