@@ -5,8 +5,7 @@ A partir da premissa que um jogo digital (ou videojogo ou jogo electrónico), re
 ----
 ## Objetivo do Repositório
 
-> Esse repositório tem como finalizade ajudar os iniciantes em programação de jogos digitais em absorver técnicas, paradigmas e conhecimentos específicos no processo de composição de um jogos digital. E para isto o repositório conta com códigos e projetos relacionados às duas disciplinas do Curso Tecnológico em Jogos Digitais (Introdução à Programação e Programação de Jogos). 
-
+> Esse repositório tem como finalizade ajudar os iniciantes em programação de jogos digitais em absorver técnicas, paradigmas e conhecimentos específicos no processo de composição de um jogos digital. E para isto o repositório conta com códigos e projetos relacionados às disciplinas de programação do Curso Tecnológico em Jogos Digitais/UNEB.
 ----
 
 ## JD0007 - Introdução à Programação
