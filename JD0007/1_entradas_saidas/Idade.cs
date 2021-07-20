@@ -5,7 +5,6 @@
 %  Purpose:
 %   Implements sample c# code 
 %   Exercise #2 - 'Linguagem de Programação: Entradas e Saídas'
-%
 %   'Escreva um programa que pergunte o nome e a idade de um individuo 
 %    e imprima (aproximadamente) quantos dias de vida ele possui.'
 %

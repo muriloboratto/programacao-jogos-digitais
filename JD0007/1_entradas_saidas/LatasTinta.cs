@@ -5,7 +5,6 @@
 %  Purpose:
 %   Implements sample c# code 
 %   Exercise #3 - 'Linguagem de Programação: Entradas e Saídas'
-%
 %    'Faça um programa que calcule a quantidade necessária de latas de tinta para 
 %     pintar uma parede. O programa pergunta a medida de largura e altura da parede 
 %     em metros e imprima o resultado (em latas de tintas). Considere que o consumo 

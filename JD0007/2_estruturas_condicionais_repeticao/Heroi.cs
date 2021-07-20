@@ -25,7 +25,6 @@ using System;
 namespace jdip {
 	class Heroi {
 		static void Main() {
-
 			// Declaração de Variáveis
 			double mana = 500;
 			double forca = 500;
