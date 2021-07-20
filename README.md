@@ -36,7 +36,7 @@ A partir da premissa que um jogo digital (ou videojogo ou jogo electrónico), re
 * Máquinas de Estados Finitos
 * Comportamentos de Direção
 * Pathfinding
-* Programação de Linguagem Natural
+* Algoritmos Genéticos
 * Robótica Inteligente
 
 ----
