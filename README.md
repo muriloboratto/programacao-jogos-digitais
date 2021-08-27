@@ -36,16 +36,18 @@ A partir da premissa que um jogo digital (ou videojogo ou jogo electrónico), re
 * Máquinas de Estados Finitos
 * Comportamentos de Direção
 * Pathfinding
-* Algoritmos Genéticos
+* Aprendizado de Máquina
 * Robótica Inteligente
+* Projetos Avançados de IA aplicados à Jogos Digitais
+
 
 ----
 
 ## JD0045 - Programação de Jogos II
 
+* Ferramentas de Versificação e Conteinerização: Git e Docker
 * Programação em Python Aplicado à Jogos Digitais
 * Banco de Dados Aplicados à Jogos Digitais
 * Conceitos de Computação de Alto Desempenho Aplicada à Jogos Digitais
-* Ferramentas de Versificação e Conteinerização: Git e Docker
 * Tópicos Avançados em UNITY
 
