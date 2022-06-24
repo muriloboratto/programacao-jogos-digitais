@@ -1,3 +1,23 @@
+# Ignore the node_modules directory
+*_solution/
+*_JD0008/
+*_JD0009/
+*_JD0045/
+*_JD0007/
+
+
+# Ignore Logs
+logs
+*.log
+
+# Ignore the build directory
+
+# The file containing environment variables 
+.env
+
+# Ignore IDE specific files
+.DS_Store
+
 # Created by https://www.toptal.com/developers/gitignore/api/unity
 # Edit at https://www.toptal.com/developers/gitignore?templates=unity
 
